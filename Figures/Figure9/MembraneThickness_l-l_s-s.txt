@@ -1,6 +1,6 @@
-#cg	membrane thickness [A]			
-#	    283 K	293 K	303 K	313 K
-#0	    41.35	41.03	40.71	40.40
+#	membrane thickness [Å] PO4-PO4 l-l membrane, s-s membrane = 0 mol%			
+#mol% lcPI	    283 K	293 K	303 K	313 K
+0 	    41.35	41.03	40.71	40.40
 50	    50.35	49.95	47.74	46.96
 60	    51.71	51.48	48.86	47.63
 70	    52.91	52.96	52.03	48.20
