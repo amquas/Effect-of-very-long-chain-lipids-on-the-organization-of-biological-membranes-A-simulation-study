@@ -1,0 +1,22 @@
+#include "martini_v2.2.itp"
+#include "martini_v2.0_ions.itp"
+#include "martini_v2.0_allLipids.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>loPI:POPI:DPPI:PYPI:ERGO=30.0:5.0:3.0:2.0:10.0 LowerLeaflet>loPI:POPI:DPPI:PYPI:ERGO=30.0:5.0:3.0:2.0:10.0
+
+[ molecules ]
+; name  number
+loPI           405
+POPI            67
+DPPI            40
+PYPI            27
+ERGO           135
+loPI           405
+POPI            67
+DPPI            40
+PYPI            27
+ERGO           135
+W            28720
+NA            1078
