@@ -1,0 +1,22 @@
+#include "martini_v2.2.itp"
+#include "martini_v2.0_allLipids.itp"
+#include "martini_v2.0_ions.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>loPI=1.0 LowerLeaflet>PSPI:POPI:POPS:YOPS:POPE:YOPE:POPC:YOPC:ERGO=6.0:14.0:21.0:9.0:9.0:21.0:12.0:48.0:60.0
+
+[ molecules ]
+; name  number
+loPI           676
+PSPI            20
+POPI            47
+POPS            70
+YOPS            30
+POPE            30
+YOPE            70
+POPC            40
+YOPC           162
+ERGO           202
+W            30840
+NA             843
