@@ -1,6 +1,6 @@
-# order parameter cg asymmetric Membranes last beads C5A-C6A																								
+# Scc order parameter l-s membranes beads C5A-C6A																								
 																							
-#% loPI	 T [K]						
+#mol% lcPI	 T [K]						
 #    	283	    293	    303	    313     323     333	  
 50	    0.094	0.102	0.095	0.091   0.087   0.084
 60  	0.123	0.130	0.124	0.117	0.111   0.105
