@@ -1,6 +1,6 @@
-# order parameter des cg-symmetrischen Systems zwischen den Beads C5A und C6A
+# Scc order parameter l-l membranes beads C5A und C6A
 
-#% loPI	T [K]
+#mol% lcPI	T [K]
 #    	283	    293	    303	    313	    
 50      0.116	0.107	0.092	0.092
 60      0.176	0.171	0.131	0.116
